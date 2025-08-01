@@ -111,13 +111,4 @@ iface.launch()
 - [Groq API documentation](https://console.groq.com/docs/quickstart)
 - [LangChain documentation](https://python.langchain.com/docs/get_started/introduction)
 - [Gradio documentation](https://www.gradio.app/docs/interface)
-## Authors
-
-
-- [@Shubham Bhatia](https://www.linkedin.com/in/shubhambhatia2103/)
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
 
